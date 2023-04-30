@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaibhav9901
+- 👋 Hi,
 - 👀 I’m interested in ...hacking
 - 🌱 I’m currently learning ...hacking
 - 💞️ I’m looking to collaborate on ...
